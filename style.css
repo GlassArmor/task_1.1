@@ -33,11 +33,7 @@ html, body, .wrapper { margin: 0; padding: 0; box-sizing: border-box; font-famil
  .right_content {
    height: 83vh;
    width: 43%;
-<<<<<<< HEAD
    margin: 4vh 4% 1vh 4%;
-=======
-   margin: 4vh 4% 0.5vh 4%;
->>>>>>> aeaee02dd954e8623c7b03930d14fd3a3c0782f8
    overflow: auto;
  }
  h1 {
@@ -177,7 +173,7 @@ h2 {
   color: #FFFFFF;
   font-weight: bold;
   background-color: #3698FB;
-  margin-top: 4vh;
+  margin-top: 3vh;
   height: 6vh;
   min-height: 30px;
   max-height: 80px;
