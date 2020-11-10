@@ -33,7 +33,7 @@ html, body, .wrapper { margin: 0; padding: 0; box-sizing: border-box; font-famil
  .right_content {
    height: 83vh;
    width: 43%;
-   margin: 4vh 4% 2vh 4%;
+   margin: 4vh 4% 0.5vh 4%;
    overflow: auto;
  }
  h1 {
